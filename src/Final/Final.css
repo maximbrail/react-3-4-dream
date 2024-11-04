@@ -1,0 +1,22 @@
+.wrap3 {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    gap: 20px;
+    margin: 0 auto;
+
+    input {
+        padding: 20px;
+    }
+
+    button {
+        padding: 15px;
+        background-color: yellow;
+        border: none;
+        font-weight: 700;
+    }
+}
+
+.section3 {
+    padding: 60px 0;
+}
